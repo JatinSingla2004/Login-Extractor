@@ -1,7 +1,7 @@
 <?php
 
 // Set the location to redirect the page
-header ('Location: textdata2.php');
+header ('Location: Main_Tool.php');
 
 // Open the text file in writing mode
 $file = fopen("form-save.txt", "a");
